@@ -4,7 +4,7 @@
 
 ### We go ALL IN on what we love – to prove what's possible for people & businesses.
 
-[![Website](https://img.shields.io/badge/all--in--group.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.all-in-group.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/company/all-in-group-gmbh/) [![Jobs](https://img.shields.io/badge/We're_hiring-FF3366?style=for-the-badge&logo=rocket&logoColor=white)](https://www.all-in-group.com/jobs/)
+[![Website](https://img.shields.io/badge/all--in--group.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.all-in-group.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/company/all-in-group-gmbh/) [![Jobs](https://img.shields.io/badge/We're_hiring-FF0066?style=for-the-badge&logo=rocket&logoColor=white)](https://www.all-in-group.com/jobs/)
 
 </div>
 
