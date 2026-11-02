@@ -10,8 +10,11 @@
 
 ---
 
-Founded in 2007 by René and Marc Ruhland, **bootstrapped ever since** – no outside capital.
-We build our own software and run our own production, and today we're at **€100M+ annual revenue**.
+We're the ALL IN GROUP – a leading player in e-commerce. Sounds big? It is.
+
+Under one roof we bring together strong brands like MYPOSTER, JUNIQE, Kartenliebe and ArtPhotoLimited, plus our own production, Printhouse. Each has its own identity, audience and product world – from personalised photo products to wall art to iconic photography. What connects us is a shared mindset, real teamplay and a high bar for **really good quality**.
+
+Technology and innovation are in our DNA. Founded in 2007 by René and Marc Ruhland and **bootstrapped ever since**, we bring well over a decade of experience in products and print – and today we're at **€100M+ annual revenue**.
 
 ## 🧩 Our brands
 
